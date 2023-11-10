@@ -1,5 +1,5 @@
 # CCCRewrite
-A decent EDU Mail Bot
+\nA decent EDU Mail Bot
 
 Features:
 Multi college selection,
