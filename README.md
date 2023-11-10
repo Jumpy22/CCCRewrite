@@ -1,10 +1,10 @@
 # CCCRewrite
-\nA decent EDU Mail Bot
+A decent EDU Mail Bot
 
 Features:
-Multi college selection,
-2cap or manual mode,
-Multi-Apply mode,
-Human Emulation using Selenium,
-Multi-email support,
-Multiple supported browsers
+- [x]Multi college selection
+- [x]2cap or manual mode
+- [x]Multi-Apply mode
+- [x]Human Emulation using Selenium
+- [x]Multi-email support
+- [x]Multiple supported browsers
